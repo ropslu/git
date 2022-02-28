@@ -1,2 +1,3 @@
 testando uma nova linha.
 Entendendo o HEAD
+Testando fusão de arquivos no git.
